@@ -16,6 +16,8 @@ Este notebook puede extraer datos del archivo ```AirQuality.csv```, para analiza
 
 Si quieres cambiar el archivo, o la dirección del mismo, solo ve a la sección de parameters y cambia el ```input_path```.
 
+Puedes cambiar la semilla en ```seed``` o poner None para mayor aleatoriedad.
+
 ### Si usas Google Colab
 
 1. Ve a la sección de Files y asegurate de tener habilitado el acceso a tu Google Drive, de lo contrario hablitalo y dale los permisos correspondientes.
